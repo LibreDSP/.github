@@ -4,4 +4,4 @@
 
 To try the app, visit: [libredsp.github.io](https://libredsp.github.io)
 
-The web app is fully functional and continuously evolving, with major updates coming soon.
+The web app is fully functional but still evolving, with major updates coming soon.
