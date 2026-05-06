@@ -4,4 +4,4 @@
 
 To try the app, visit: [LibreDSP.github.io](https://LibreDSP.Github.io)
 
-The sourcecode is available on [github.com/LibreDSP/webapp](https://github.com/LibreDSP/webapp).
+The source code is available on [github.com/LibreDSP/webapp](https://github.com/LibreDSP/webapp).
